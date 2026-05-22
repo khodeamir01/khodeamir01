@@ -1,7 +1,7 @@
 # 💫 About Me:
-👨‍💻 I'm AmirSalar, a junior back-end developer 
-
-<br>🔭 I’m currently working on <a href ="https://github.com/khodeamir01/Digikala-Project">Github <a><br><br>🌱 I’m currently learning Express.js and git<br><br>
+<h2>👨‍💻 I'm AmirSalar, a junior back-end developer<h2>
+<h3>🔭 I’m currently working on <a href ="https://github.com/khodeamir01/Digikala-Project">Github <a><h3>
+<h3>🌱 I’m currently learning Express.js and git<h3>
 
 
 ## 🌐 Socials:
